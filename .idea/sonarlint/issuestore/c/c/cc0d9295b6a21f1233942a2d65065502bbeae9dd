@@ -1,0 +1,11 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÔÑÄ‡8££®Íë1J$122ec2ce-af1c-4299-9e6e-8d15313cf580
+z
+java:S1854"7Remove this useless assignment to local variable "arr".(ä°©·8¨£®Íë1J$d39a8cd8-0412-4351-96af-38c77d485501
+k
+java:S1481"(Remove this unused "arr" local variable.(ä°©·8ª£®Íë1J$bd89e538-ba7d-4e89-ad45-04db0fca2477
+~	java:S125"<This block of commented-out lines of code should be removed.(Æö…‰8«£®Íë1J$8c4bc711-3645-4e0d-8b39-0a9680c3a0cd
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(¸Û£ùüÿÿÿÿ8«£®Íë1J$aeaaa88f-277f-4b2e-a196-32536e998c60
+}	java:S125"<This block of commented-out lines of code should be removed.(Ÿã‚}8«£®Íë1J$914f5a20-5add-42c4-9e69-53b6cb7e4bee
+r	java:S106("+Replace this use of System.out by a logger.(† •šÿÿÿÿÿ8àß¯Íë1J$35ac48a4-c27f-4017-b900-8b5701b75c4a
+r	java:S106*"+Replace this use of System.out by a logger.(† •šÿÿÿÿÿ8¬¶Íë1J$27a6739e-2686-4348-9abb-3e7538b31901

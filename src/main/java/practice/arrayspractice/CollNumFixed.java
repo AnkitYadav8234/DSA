@@ -1,4 +1,4 @@
-package practice;
+package practice.arrayspractice;
 
 public class CollNumFixed {
     public static void main(String[] args) {
