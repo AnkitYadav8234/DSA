@@ -58,3 +58,5 @@ Q.idea/sonarlint/securityhotspotstore/9/f/9f7a7720e99b04ebb7678749d513f0c9fb7758
 Q.idea/sonarlint/securityhotspotstore/c/c/cc0d9295b6a21f1233942a2d65065502bbeae9dd,c\e\ceb1dbe7dea193a113918cb342eb8407f0c6280a
 Z
 *src/main/java/linearsearch/MainSearch.java,c\3\c33c4ef41cf19690db6d274523ce33f7d349b54e
+b
+2src/main/java/linearsearch/LinearSearchString.java,5\1\51ba3dddda5c4b8a947285de1ad8e5b06cd1a01c
