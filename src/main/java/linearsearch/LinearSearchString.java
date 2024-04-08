@@ -13,7 +13,6 @@ public class LinearSearchString {
         System.out.println(searchWithtoCharArray(name,'t'));
 
     }
-
     static boolean searchWithtoCharArray(String str, char target){
         if(str.length() == 0){
             return false;

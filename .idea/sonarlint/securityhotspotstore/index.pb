@@ -60,3 +60,13 @@ Z
 *src/main/java/linearsearch/MainSearch.java,c\3\c33c4ef41cf19690db6d274523ce33f7d349b54e
 b
 2src/main/java/linearsearch/LinearSearchString.java,5\1\51ba3dddda5c4b8a947285de1ad8e5b06cd1a01c
+]
+-src/main/java/linearsearch/SearchInRange.java,0\1\01874642bb1da6f6192a4c572cfbb48a66441ade
+^
+.src/main/java/linearsearch/SearchIn2Array.java,a\6\a68c7263e98f7872ee165ceff216f664305a1803
+Y
+)src/main/java/linearsearch/MaxWealth.java,c\f\cfabc73d971bac63a54e1c7061e99ab4ed413e8b
+W
+'src/main/java/linearsearch/FindMin.java,c\a\ca1168cdb601716f9669ab76637b8b9a4ab9bd81
+Y
+)src/main/java/linearsearch/EvenDigit.java,6\f\6fa533fb039f2b66d6306e8ced0ef74c8dc345ca
