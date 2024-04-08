@@ -1,24 +1,8 @@
 
-S
-#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-N
-src/main/java/ArraysPracs.java,1\d\1d4cac39234bd1717f7c71e00c05054dfbbd20c6
 \
 ,src/main/java/ArraysQuestion/MaxInArray.java,2\7\272da158c696d767eb9c0b439f93ea5f0302316a
-Q
-!src/main/java/practice/input.java,c\c\cc0d9295b6a21f1233942a2d65065502bbeae9dd
-X
-(src/main/java/practice/CollNumFixed.java,c\d\cd646ac27d988f4fe42aea2698c65c528980f212
-]
--src/main/java/practice/PassingInFunction.java,c\3\c37c885edbb2dcd3d243a874b926d8586d6d0122
-_
-/src/main/java/practice/MultiDimensionArray.java,d\b\db50449bf4e4869a305b21a5b249c7d3c1f73279
-P
- src/main/java/practice/Swap.java,d\e\de351072067b53693a3c05ae7f2621ce2438b9b1
-V
-&src/main/java/practice/MaxOfArray.java,2\1\211686430fdfc4fc392cdfd5d0c52d77c9676995
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -72,3 +56,5 @@ Q.idea/sonarlint/securityhotspotstore/a/f/afbba72d29e28b0e9cba36aaa3961ff68dcc5e
 Q.idea/sonarlint/securityhotspotstore/9/f/9f7a7720e99b04ebb7678749d513f0c9fb77584e,4\c\4ca86b939e4c4b9679877ce6a258d18424b3feff
 Å
 Q.idea/sonarlint/securityhotspotstore/c/c/cc0d9295b6a21f1233942a2d65065502bbeae9dd,c\e\ceb1dbe7dea193a113918cb342eb8407f0c6280a
+Z
+*src/main/java/linearsearch/MainSearch.java,c\3\c33c4ef41cf19690db6d274523ce33f7d349b54e
