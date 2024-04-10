@@ -58,3 +58,7 @@ Y
 ,src/main/java/binarysearch/BinarySearch.java,6\4\64f4dda0f6471de144c0dc2e47c988f7e9aff20b
 ]
 -src/main/java/binarysearch/OrderAgnostic.java,8\0\80d9edbbc430365328e570f34a0c901fd9b385a8
+\
+,src/main/java/binarysearch/CeilngSearch.java,c\a\caee7f5e386c9bfb70baf793b9906e0676b63e8f
+[
++src/main/java/binarysearch/FloorSearch.java,a\0\a0df1def8b01e819650ff8957237227f20ff8e40
